@@ -1,0 +1,289 @@
+.AdvDetikcomRedesign2{
+    display: block !important;
+}
+
+@font-face {
+    font-family: "Montserrat-FF";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+        url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+        url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.woff2") format("woff2"),
+        url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.woff") format("woff"),
+        url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.ttf") format("truetype"),
+        url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 92.5%;
+}
+
+@font-face {
+    font-family: "Helvetica-FF";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Light.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Light.woff2") format("woff2"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Light.woff") format("woff"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Light.ttf") format("truetype"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Light.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 99.25%;
+}
+
+@font-face {
+    font-family: "Helvetica-FF";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Regular.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Regular.woff2") format("woff2"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Regular.woff") format("woff"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Regular.ttf") format("truetype"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Regular.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 99.25%;
+}
+
+@font-face {
+    font-family: "Helvetica-FF";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Bold.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id./assets/fonts/helvetica/Helvetica-Bold.woff2") format("woff2"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Bold.woff") format("woff"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Bold.ttf") format("truetype"),
+    url("https://cdn.detik.net.id/assets/fonts/helvetica/Helvetica-Bold.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 99.25%;
+}
+
+@font-face {
+    font-family: "Montserrat-FF";
+    font-weight: 300;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Light.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"),
+    url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Light.woff2") format("woff2"),
+    url("https://cdn.detik.net.id./assets/fonts/montserrat/Montserrat-Light.woff") format("woff"),
+    url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Light.ttf") format("truetype"),
+    url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Light.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 92.5%;
+}
+
+@font-face {
+    font-family: "Montserrat-FF";
+    font-weight: 400;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.woff2") format("woff2"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.woff") format("woff"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.ttf") format("truetype"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Regular.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 92.5%;
+}
+
+@font-face {
+    font-family: "Montserrat-FF";
+    font-weight: 600;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-SemiBold.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-SemiBold.woff2") format("woff2"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-SemiBold.woff") format("woff"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-SemiBold.ttf") format("truetype"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-SemiBold.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 92.5%;
+}
+
+@font-face {
+    font-family: "Montserrat-FF";
+    font-weight: 700;
+    font-style: normal;
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Bold.eot");
+    src: local("Helvetica-FF, Arial, Tahoma, sans-serif"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Bold.woff2") format("woff2"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Bold.woff") format("woff"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Bold.ttf") format("truetype"), url("https://cdn.detik.net.id/assets/fonts/montserrat/Montserrat-Bold.eot?#iefix") format("embedded-opentype");
+    font-display: swap;
+    size-adjust: 92.5%;
+}
+
+html {
+    color: #000;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    line-height: 1.4;
+    font-size: 16px;
+    font-family: Helvetica-FF, Arial, Tahoma, sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeSpeed;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+.list-content__item {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+}
+
+.list-content__item {
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+}
+
+.media {
+    position: relative;
+    overflow: hidden;
+}
+
+.media--left {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    align-items: flex-start;
+}
+
+.media__image {
+    position: relative;
+    margin: 0 0 12px;
+    overflow: hidden;
+}
+
+.media__image {
+    border-radius: 4px;
+    width: 31%;
+    margin: 0 24px 0 0;
+}
+
+a {
+    background: transparent;
+    text-decoration: none;
+    color: #000;
+    -webkit-transition: all 0.3s ease-in-out 0s;
+    -moz-transition: all 0.3s ease-in-out 0s;
+    -ms-transition: all 0.3s ease-in-out 0s;
+    -o-transition: all 0.3s ease-in-out 0s;
+    transition: all 0.3s ease-in-out 0s;
+}
+
+.media__link {
+    position: static;
+}
+
+.media__image a {
+    display: block;
+}
+
+::before,
+::after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.media__link::before {
+    position: absolute;
+    content: "";
+    bottom: 0;
+    left: 0;
+    top: 0;
+    right: 0;
+    overflow: hidden;
+    white-space: nowrap;
+    z-index: 2;
+}
+
+.lqd {
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.ratiobox {
+    position: relative;
+    display: block;
+    height: 0;
+    overflow: hidden;
+    padding-bottom: 100%;
+    -webkit-transition: all 0.4s ease-in-out 0s;
+    -moz-transition: all 0.4s ease-in-out 0s;
+    -ms-transition: all 0.4s ease-in-out 0s;
+    -o-transition: all 0.4s ease-in-out 0s;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.ratiobox--4-3 {
+    padding-bottom: 75%;
+}
+
+img {
+    border: 0;
+    vertical-align: middle;
+    border-style: none;
+    position: absolute;
+    max-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    -moz-transform: translate3d(-50%, -50%, 0);
+    -ms-transform: translate3d(-50%, -50%, 0);
+    -o-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+}
+
+.media__text {
+    margin: auto;
+    flex: 1;
+    position: static;
+    font-size: 12px;
+    color: #666666;
+}
+.media__subtitle{
+    display: block;
+    margin-top: 0;
+    font-family: Montserrat-FF, Arial, Tahoma, sans-serif;
+    font-weight: 400;
+    margin-bottom: 8px;
+    color:#ef672f;
+    font-size: 12px;
+
+}
+h3 {
+    font-weight: 700;
+    line-height: 1.3;
+    margin: 0;
+}
+
+.media__title {
+    font-weight: 400;
+}
+
+.media__title {
+    font-family: Montserrat-FF, Arial, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.media__date {
+    font-weight: 300;
+    font-family: Helvetica-FF, Arial, Tahoma, sans-serif;
+    display: inline-block;
+    margin-top: 4px;
+    color: #666666;
+    font-size: 12px;
+    margin-top: 12px;
+}

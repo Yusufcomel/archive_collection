@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Jun 2025 19:29:25 at https://news.detik.com/berita/d-7671332/unesco-tetapkan-kebaya-jadi-warisan-budaya-dunia +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://news.detik.com/berita/d-7671332/unesco-tetapkan-kebaya-jadi-warisan-budaya-dunia -O1 "C:\Baju Kebaya Archive\UNESCO Tetapkan Kebaya" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:30:15	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://news.detik.com/berita/d-7671332/unesco-tetapkan-kebaya-jadi-warisan-budaya-dunia)
+19:30:18	Error: 	"Bad Request" (400) at link https://script.anura.io/request.js? (from https://cdn.insurads.com/bootstrap/S9H7OMZB.js)
+19:30:18	Error: 	"Not Found" (404) at link https://awscdn.detik.net.id/assets/css/framebar/img/loader.gif (from https://awscdn.detik.net.id/assets/css/framebar/framebar-new.css?v=202506131871)
+
+HTTrack Website Copier/3.49-2 mirror complete in 53 seconds : 87 links scanned, 83 files written (3872679 bytes overall) [2197461 bytes received at 41461 bytes/sec], 2787951 bytes transferred using HTTP compression in 55 files, ratio 37%, 1.6 requests per connection
+(3 errors, 0 warnings, 0 messages)

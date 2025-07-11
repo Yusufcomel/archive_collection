@@ -1,0 +1,2 @@
+function link_copied(){$(".copy_url").click(function(){$(this).children(".notif").addClass("url_copied");setTimeout(function(){$(".notif").removeClass("url_copied");},1500);return false;});}
+link_copied();
