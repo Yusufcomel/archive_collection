@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.weebly.com	TRUE	/	FALSE	1999999999	__cf_bm	kSHEkdPD9JFEG5oMpb.siFc.78mJJnGoPu82a6Jo2x8-1749129349-1.0.1.1-eVePp1lEhiiE.3jgwkCP1tsv2dzbKUiRX1.lfm4CLoxKnR527ddMTD6s8WLgtxA1EfzSl8llftnT3pQZCUEvvt61ZrAl5KdBEDvBlAQLi70
+warisansongket.weebly.com	TRUE	/	FALSE	1999999999	SameSite	None
+
