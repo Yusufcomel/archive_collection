@@ -1,0 +1,1 @@
+Currency.money_with_currency_format={MYR:"RM  {{amount}} ",}; Currency.money_format=Currency.money_with_currency_format; Currency.money_decimal={MYR:"2",}; Currency.money_separator={MYR:",",};
