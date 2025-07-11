@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bibahsongket.easy.co	TRUE	/	FALSE	1999999999	_landing_page	%252Fblogs%252Fto-love-songket-%252Fsongket-symbolism
+apps.easystore.co	TRUE	/	FALSE	1999999999	laravel_session	eiuodWheBcDtpZ0lJ2e8vdRXrMhauu06IYGI3jfe
+apps.easystore.co	TRUE	/	FALSE	1999999999	_admin_host	admin.easystore.co
+apps.easystore.co	TRUE	/	FALSE	1999999999	eiuodWheBcDtpZ0lJ2e8vdRXrMhauu06IYGI3jfe	%7B%22data%22%3A%22a%3A3%3A%7Bs%3A6%3A%5C%22_token%5C%22%3Bs%3A40%3A%5C%22QgmS7QFtnx2B3mRr42gDya4eD50yV66uEgflXge9%5C%22%3Bs%3A9%3A%5C%22_previous%5C%22%3Ba%3A1%3A%7Bs%3A3%3A%5C%22url%5C%22%3Bs%3A84%3A%5C%22https%3A%5C%2F%5C%2Fapps.easystore.co%5C%2Fproduct-labels%5C%2Fproductlabelv2.js%3Fshop%3Dbibahsongket.easy.co%5C%22%3B%7Ds%3A6%3A%5C%22_flash%5C%22%3Ba%3A2%3A%7Bs%3A3%3A%5C%22old%5C%22%3Ba%3A0%3A%7B%7Ds%3A3%3A%5C%22new%5C%22%3Ba%3A0%3A%7B%7D%7D%7D%22%2C%22expires%22%3A1748190173%7D
+apps.easystore.co	TRUE	/	FALSE	1999999999	samesite	none
+bibahsongket.easy.co	TRUE	/	FALSE	1999999999	locale	en_US
+bibahsongket.easy.co	TRUE	/	FALSE	1999999999	XSRF-TOKEN	4AwlJPdq7lMiHrw5vxtCaCOqF12qCPNqc1xf4gX9
+bibahsongket.easy.co	TRUE	/	FALSE	1999999999	_easystore_z	XkIOlwyL5GGXoOprpXJHg1dOByQ7SLkYVf2Dwgzs
+
