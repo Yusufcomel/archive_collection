@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+harisons.com.my	TRUE	/	FALSE	1999999999	keep_alive	99387807-82d8-4be3-9e76-30816e965597
+harisons.com.my	TRUE	/	FALSE	1999999999	_shopify_y	35BF4E08-2ef0-4D8A-807b-87fa1f4873dd
+harisons.com.my	TRUE	/	FALSE	1999999999	_shopify_s	EFA47BBE-3ea1-4951-a71e-f0899efe499c
+harisons.com.my	TRUE	/	FALSE	1999999999	_tracking_consent	%7B%22con%22%3A%7B%22CMP%22%3A%7B%22a%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A%22%22%2C%22s%22%3A%22%22%7D%7D%2C%22v%22%3A%222.1%22%2C%22region%22%3A%22MY14%22%2C%22reg%22%3A%22%22%2C%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22sale_of_data_region%22%3Afalse%2C%22consent_id%22%3A%228BB24CA3-ba69-4AA2-b687-76c88f7b344b%22%7D
+harisons.com.my	TRUE	/	FALSE	1999999999	_orig_referrer	http%3A%2F%2Fbloghambestore.blogspot.com%2Fp%2Fblog-page.html
+harisons.com.my	TRUE	/	FALSE	1999999999	_landing_page	%2F547-thickbox_default%2Fsamping-songket.jpg
+harisons.com.my	TRUE	/	FALSE	1999999999	SameSite	Lax
+
