@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+disbud.bulelengkab.go.id	TRUE	/	FALSE	1999999999	ci_session	lp14hmfvakppiavq73scu6p6rt15som0
+disbud.bulelengkab.go.id	TRUE	/	FALSE	1999999999	csrf_cookie_name	f25951f0d587d66c5cacd8c068334e9e
+disbud.bulelengkab.go.id	TRUE	/	FALSE	1999999999	SameSite	Lax
+
