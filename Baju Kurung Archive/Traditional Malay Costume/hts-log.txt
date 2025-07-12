@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jun 2025 22:35:20 at https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/ -O1 "C:\Baju Kurung Archive\Traditional Malay Costume" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:36:00	Warning: 	Found for https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/?share=twitter
+22:36:00	Warning: 	File has moved from https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/?share=twitter to https://x.com/intent/tweet?related=wordpressdotcom&text=Traditional%20Malay%20costume%3A%20baju%20kurung&url=https%3A%2F%2Fbabogenglish.wordpress.com%2F2016%2F07%2F20%2Ftraditional-malay-costume-baju-kurung%2F
+22:36:00	Warning: 	Found for https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/?share=facebook
+22:36:00	Warning: 	File has moved from https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fbabogenglish.wordpress.com%2F2016%2F07%2F20%2Ftraditional-malay-costume-baju-kurung%2F&t=Traditional%20Malay%20costume%3A%20baju%20kurung
+22:36:08	Error: 	"Not Found" (404) at link https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/GET (from https://babogenglish.wordpress.com/2016/07/20/traditional-malay-costume-baju-kurung/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 48 seconds : 40 links scanned, 34 files written (3437414 bytes overall) [2661487 bytes received at 55447 bytes/sec], 1156549 bytes transferred using HTTP compression in 26 files, ratio 22%, 1.5 requests per connection
+(1 errors, 4 warnings, 0 messages)
