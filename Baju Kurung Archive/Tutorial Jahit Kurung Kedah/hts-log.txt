@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Jun 2025 23:31:34 at https://rogerqisutton.blogspot.com/2022/07/tutorial-jahit-baju-kurung-kedah.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://rogerqisutton.blogspot.com/2022/07/tutorial-jahit-baju-kurung-kedah.html -O1 "C:\Baju Kurung Archive\Tutorial Jahit Kurung Kedah" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:32:13	Error: 	"<none>" (522) at link https://www.kifarahmedia.com/wp-content/uploads/2018/01/img_9230.jpg (from https://rogerqisutton.blogspot.com/2022/07/sidai-baju-dalam-rumah.html)
+23:32:13	Error: 	"Not Found" (404) at link https://mykmu.net/wp-content/cache/thumbnails/2021/10/SidaiBaju-DalamRumah-800x445-c.png (from https://rogerqisutton.blogspot.com/2022/07/sidai-baju-dalam-rumah.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 25 links scanned, 22 files written (1508047 bytes overall) [1066397 bytes received at 27343 bytes/sec], 668991 bytes transferred using HTTP compression in 10 files, ratio 30%, 1.3 requests per connection
+(2 errors, 0 warnings, 0 messages)
